@@ -9,3 +9,4 @@ Next, I will be able to take measurements with the nodes. This will allow them t
 
 I plan to upload videos of my algorithms in action to a portfolio.
 
+This repository contains 100% my code.
